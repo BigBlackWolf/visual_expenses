@@ -1,0 +1,1 @@
+Micro app for expences visualization
